@@ -2,8 +2,8 @@ const total_bill = document.getElementById("bill-total");
 const total_people = document.getElementById("total-people");
 const total_bill_err = document.querySelector(".total-bill-err");
 const total_person_err = document.querySelector(".total-person-err");
-const tip = document.querySelector('.tip');
 const amount = document.querySelector('.amount');
+const tip = document.querySelector('.tip');
 
 let total_per_person;
 let tip_per_person; 
