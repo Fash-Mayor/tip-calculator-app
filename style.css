@@ -161,7 +161,14 @@ button {
   font-weight: bold;
   color: var(--very-dark-cyan);
 }
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
 
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
 
 
 /* For screens with a maximum width of 768px (tablets and smaller) */
