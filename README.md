@@ -38,7 +38,7 @@ The challenge is to build out this tip calculator app and get it looking as clos
 - Mobile-first workflow
 
 ### What I learned
-One major issue I ran into was clearing the values of the numbers in the textboxes, but I was able to work throught it by resetting each of them to default values.
+One major issue I ran into was clearing the values of the numbers in the textboxes, but I could work through it by resetting each of them to default values.
 ```js
 document.querySelector(".reset").addEventListener("click", () =>{
     total_bill.value = '';
@@ -48,7 +48,7 @@ document.querySelector(".reset").addEventListener("click", () =>{
 })
 ```
 ### Continued development
-I'm going to keep my focus on frontend, I want to be building scalable and functional sites from scratch. I would start by solidifying my Javascript and then diving into frameworks.
+I'm going to keep my focus on my frontend. I want to build scalable and functional sites from scratch. I would start by solidifying my JavaScript and then diving into frameworks.
 
 ## Author
 - Frontend Mentor - [@Fash-Mayor](www.frontendmentor.io/profile/Fash-Mayor)
